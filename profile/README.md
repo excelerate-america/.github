@@ -2,4 +2,5 @@
 
 * ## [product-team-talk](https://github.com/excelerate-america/product-team/discussions)
 * ## PRODUCTS
-    * [elevate](https://github.com/excelerate-america/product-team/discussions)
+    * [elevate-app](https://github.com/excelerate-america/elevate-app/discussions)
+    * [excelereate-app](https://github.com/excelerate-america/excelerate-app/discussions)
