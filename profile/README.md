@@ -3,6 +3,7 @@
    * [Product Discussion](https://github.com/excelerate-america/product-team/discussions)
 ## BY PROJECT / PRODUCT
  * ### ELEVATE
+     * [elevate-client](https://github.com/excelerate-america/elevate-client-next)
     * [elevate-app](https://github.com/excelerate-america/elevate-app/discussions)
  * ### EXCELERATE
     * [excelereate-app](https://github.com/excelerate-america/excelerate-app/discussions)
