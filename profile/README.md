@@ -1,3 +1,5 @@
 ## TEAM EA
 
-* [PRODUCT TEAM DISCUSSIONS](https://github.com/orgs/excelerate-america/teams/product-team)
+* ## [product-team-talk](https://github.com/excelerate-america/product-team/discussions)
+* ## PRODUCTS
+    * [elevate](https://github.com/excelerate-america/product-team/discussions)
