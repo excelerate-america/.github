@@ -33,7 +33,7 @@
   * ADMIN: [excelerate-admin](https://github.com/excelerate-america/excelerate-admin)
   * DISCUSSIONS: [excelereate-app](https://github.com/excelerate-america/excelerate-app/discussions)
 ### REP RESOURCE HUB [RRH]
-   * CLIENT: [earep-info-client](https://github.com/excelerate-america/earep-info-client)
+   * CLIENT: [rrh-info-client](https://github.com/excelerate-america/rrh-info-client)
    * ADMIN :[earep-info-admin](https://github.com/excelerate-america/earep-info-admin)
    * DISCUSSIONS: [represource-app](https://github.com/excelerate-america/represource-app/discussions)
 
