@@ -1,14 +1,12 @@
 # EXCELERATE AMERICA
 ## PROJECT BOARDS
-### GOALS OVERVIEW
- * [GOALS Overview: Table ](https://github.com/orgs/excelerate-america/projects/11/views/1)
- * [GOALS Overview : By Domain Code](https://github.com/orgs/excelerate-america/projects/11/views/4)
-
 ### TASK BOARD
-  * [BOARD](https://github.com/orgs/excelerate-america/projects/16/views/1)
-  * [TABLE](https://github.com/orgs/excelerate-america/projects/16/views/6)
-  * [ByAssignee](https://github.com/orgs/excelerate-america/projects/16/views/7)
-  * [ByDomain](https://github.com/orgs/excelerate-america/projects/16/views/8)
+ * [TEAM MEETINGS: Trello](https://trello.com/b/7QgzeZvl/team-meetings)
+  * [HIGH LEVEL ISSUE LISTS](https://github.com/orgs/excelerate-america/projects/16/views/9)
+  * [CURRENT ITERATION](https://github.com/orgs/excelerate-america/projects/16/views/22)
+  * [OPEN ISSUES TABLE VIEW](https://github.com/orgs/excelerate-america/projects/16/views/6)
+  * [OPEN ISSUES BOARD VIEW](https://github.com/orgs/excelerate-america/projects/16/views/23)
+  * [TASKS BY ASSIGNEE](https://github.com/orgs/excelerate-america/projects/16/views/7)
 
 ## TEAMS
 ### ENGINEERS
