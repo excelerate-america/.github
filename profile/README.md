@@ -16,7 +16,7 @@
   * [Discussion](https://github.com/excelerate-america/engineers/discussions)
 
 ### PRODUCT TEAM
-  * [Team Hub](https://github.com/excelerate-america/product-team)
+  * [Product Team Hub](https://github.com/excelerate-america/product-team)
   * [Discussion](https://github.com/excelerate-america/product-team/discussions)
 
 ## PROJECTS BY PRODUCT
