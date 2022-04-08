@@ -1,12 +1,15 @@
 # EXCELERATE AMERICA
 ## PROJECT BOARDS
+
 ### TASK BOARD
- * [TEAM MEETINGS: Trello](https://trello.com/b/7QgzeZvl/team-meetings)
-  * [HIGH LEVEL ISSUE LISTS](https://github.com/orgs/excelerate-america/projects/16/views/9)
-  * [CURRENT ITERATION](https://github.com/orgs/excelerate-america/projects/16/views/22)
-  * [OPEN ISSUES TABLE VIEW](https://github.com/orgs/excelerate-america/projects/16/views/6)
-  * [OPEN ISSUES BOARD VIEW](https://github.com/orgs/excelerate-america/projects/16/views/23)
-  * [TASKS BY ASSIGNEE](https://github.com/orgs/excelerate-america/projects/16/views/7)
+* [TASKLISTS](https://github.com/orgs/excelerate-america/projects/16/views/9)
+* [TASKS](https://github.com/orgs/excelerate-america/projects/16/views/25)
+* [UI TASKS](https://github.com/orgs/excelerate-america/projects/18/views/2)
+* [CURRENT TASKS](https://github.com/orgs/excelerate-america/projects/16/views/22)
+* [TASKS BY ASSIGNEE](https://github.com/orgs/excelerate-america/projects/16/views/7)
+
+### TRELLO
+* [TEAM MEETINGS: Trello](https://trello.com/b/7QgzeZvl/team-meetings)
 
 ## TEAMS
 ### ENGINEERS
@@ -16,6 +19,9 @@
 ### PRODUCT TEAM
   * [Product Team Hub](https://github.com/excelerate-america/product-team)
   * [Discussion](https://github.com/excelerate-america/product-team/discussions)
+  * [OPEN ISSUES TABLE VIEW](https://github.com/orgs/excelerate-america/projects/16/views/6)
+  * [OPEN ISSUES BOARD VIEW](https://github.com/orgs/excelerate-america/projects/16/views/23)
+
 
 ## PROJECTS BY PRODUCT
 ### GREAT DATA LAKES [GDL]
