@@ -2,11 +2,9 @@
 ## PROJECT BOARDS
 
 ### TASK BOARD
-* [TASKLISTS](https://github.com/orgs/excelerate-america/projects/16/views/9)
-* [TASKS](https://github.com/orgs/excelerate-america/projects/16/views/25)
+* [PRODUCT Project](https://github.com/orgs/excelerate-america/projects/22)
+* [EA.com Feedback Bugs](https://github.com/orgs/excelerate-america/projects/21)
 * [UI TASKS](https://github.com/orgs/excelerate-america/projects/18/views/2)
-* [CURRENT TASKS](https://github.com/orgs/excelerate-america/projects/16/views/22)
-* [TASKS BY ASSIGNEE](https://github.com/orgs/excelerate-america/projects/16/views/7)
 
 ### TRELLO
 * [TEAM MEETINGS: Trello](https://trello.com/b/7QgzeZvl/team-meetings)
@@ -24,6 +22,8 @@
 
 
 ## PROJECTS BY PRODUCT
+### EA-ECOSYSTEM (EA.com)[EAX]
+   * MAIN: [ea-great-data-lake](https://github.com/excelerate-america/ea-ecosystem)
 ### GREAT DATA LAKES [GDL]
    * MAIN: [ea-great-data-lake](https://github.com/excelerate-america/ea-great-data-lakes)
    * SERVICE LAYER: [gdl-service-layer](https://github.com/excelerate-america/gdl-service-layer)
