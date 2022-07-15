@@ -2,9 +2,12 @@
 ## PROJECT BOARDS
 
 ### TASK BOARD
-* [PRODUCT Project](https://github.com/orgs/excelerate-america/projects/22)
-* [EA.com Feedback Bugs](https://github.com/orgs/excelerate-america/projects/21)
-* [UI TASKS](https://github.com/orgs/excelerate-america/projects/18/views/2)
+
+#### 🐞 [BUGS](https://github.com/orgs/excelerate-america/projects/21)
+
+#### 🛣 [PROJECTS](https://github.com/orgs/excelerate-america/projects/22)
+
+#### 🚧 [TASKS](https://github.com/orgs/excelerate-america/projects/24/views/2)
 
 ### TRELLO
 * [TEAM MEETINGS: Trello](https://trello.com/b/7QgzeZvl/team-meetings)
