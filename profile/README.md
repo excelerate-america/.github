@@ -27,6 +27,7 @@
 ## PROJECTS BY PRODUCT
 ### EA-ECOSYSTEM [EAX]
    * MAIN: [ea-ecosystem](https://github.com/excelerate-america/ea-ecosystem)
+   * HYGRAPH SCHEMA MGMT TOOL: [ea-ecosystem-hygraph-mgmt](https://github.com/excelerate-america/ea-ecosystem-hygraph-mgmt)
 ### GREAT DATA LAKES [GDL]
    * MAIN: [ea-great-data-lake](https://github.com/excelerate-america/ea-great-data-lakes)
    * SERVICE LAYER: [gdl-service-layer](https://github.com/excelerate-america/gdl-service-layer)
